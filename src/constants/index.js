@@ -151,7 +151,7 @@ export const projects = [
     ],
     techStack: "Java, Spring Boot, ReactJS, MySQL",
     github:
-      "https://github.com/rangari-rani/academic-projects-cdac/tree/master/Project-Execution-Hub",
+      "https://github.com/rangari-rani/Project-Execution-Hub",
     demo: "",
   },
 
@@ -166,7 +166,7 @@ export const projects = [
 
     techStack: "ReactJS, TailwindCSS",
     github:
-      "https://github.com/rangari-rani/academic-projects-cdac/tree/master/kanban-board",
+      "https://github.com/rangari-rani/kanban-board",
     demo: "https://kanban-board-flowtask.vercel.app/",
   },
   {
@@ -179,8 +179,8 @@ export const projects = [
     ],
     techStack: "MongoDB, ExpressJS, ReactJS, Node.js",
     github:
-      "https://github.com/rangari-rani/academic-projects-cdac/tree/master/Food-Fusion-mern",
-    demo: "https://food-ordering-frontend-wu7u.onrender.com/",
+      "https://github.com/rangari-rani/Food-Fusion",
+    demo: "",
   },
   {
     iconUrl: house,
@@ -192,7 +192,7 @@ export const projects = [
     ],
     techStack: "MongoDB, ExpressJS, ReactJS, Node.js",
     github:
-      "https://github.com/rangari-rani/academic-projects-cdac/tree/master/Holistic-WellBeing-mern",
+      "https://github.com/rangari-rani/Holistic_WellBeing",
     demo: "",
   },
 ];
